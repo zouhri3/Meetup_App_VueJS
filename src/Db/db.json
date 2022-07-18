@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "userName": "youssef zouhri",
+      "email": "yo.zouhri@edu.umi.ac.ma",
+      "password": "AUvgr7Yhcc6w37n",
+      "id": 3
+    },
+    {
+      "userName": "youssef zouhri",
+      "email": "yo.zouhri@edu.umi.ac.mam",
+      "password": "AUvgr7Yhcc6w37n",
+      "id": 4
+    },
+    {
+      "userName": "mmmmmmmmmmmmm",
+      "email": "yo.zouhri@edu.umi.ac.mall",
+      "password": "AUvgr7Yhcc6w37n",
+      "id": 5
+    }
+  ],
+  "meetups": [
+    {
+      "id": 1,
+      "email": "yo.zouhri@edu.umi.ac.ma",
+      "image_URL": "https://www.planetware.com/wpimages/2019/04/morocco-marrakesh-top-attractions-djemaa-el-fna.jpg",
+      "title": "visit in Morocco ",
+      "location": " marakech morocco ",
+      "due": "17th jan 2029",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam rerum qui alias cumque delectus accusantium eum! Veniam eum cumque autem aliquid voluptates, laborum numquam non voluptas inventore recusandae placeat "
+    },
+    {
+      "id": 2,
+      "email": "yo.zouhri@edu.umi.ac.ma",
+      "image_URL": "https://www.planetware.com/wpimages/2021/07/morocco-marrakesh-top-attractions-stay-medina-riad-hotel.jpg",
+      "title": " Morocco contrey ",
+      "location": " marakech morocco ",
+      "due": "17th jan 2029",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam rerum qui alias cumque delectus accusantium eum! Veniam eum cumque autem aliquid voluptates, laborum numquam non voluptas inventore recusandae placeat "
+    },
+    {
+      "id": 3,
+      "email": "yo.zouhri@edu.umi.ac.ma",
+      "image_URL": "https://www.planetware.com/wpimages/2019/04/morocco-marrakesh-top-attractions-majorelle-gardens.jpg",
+      "title": " morocco city ",
+      "location": " marakech morocco ",
+      "due": "17th jan 2029",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam rerum qui alias cumque delectus accusantium eum! Veniam eum cumque autem aliquid voluptates, laborum numquam non voluptas inventore recusandae placeat "
+    },
+    {
+      "email": "yo.zouhri@edu.umi.ac.ma",
+      "title": "morocco top",
+      "location": "meknes",
+      "image_URL": "https://static.saltinourhair.com/wp-content/uploads/2017/04/23115129/best-restaurant-marrakech-morocco.jpg",
+      "due": "Wednesday, August 24th 2022",
+      "desc": "hello there iam, Bonjour, je cherche un développeur nuxtjs pour développer une application from scratch avez vous des références ou un portfolio avec des projets nuxtjs\n",
+      "id": 4
+    }
+  ]
+}
