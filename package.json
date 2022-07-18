@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "start": "json-server -p 3001 -w db.json"
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
